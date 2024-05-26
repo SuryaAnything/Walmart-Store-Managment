@@ -1,0 +1,38 @@
+[
+{
+  "directory": "C:/Users/surya/com.surya/data_structures/ClionProjects/DSPD_2_Assignment_2/Walmart Store/src/build",
+  "command": "C:\\mingw32\\bin\\gcc.exe   -g -std=gnu11 -o CMakeFiles\\DSPD_2_Assignment.dir\\main.c.obj -c \"C:\\Users\\surya\\com.surya\\data_structures\\ClionProjects\\DSPD_2_Assignment_2\\Walmart Store\\src\\main.c\"",
+  "file": "C:/Users/surya/com.surya/data_structures/ClionProjects/DSPD_2_Assignment_2/Walmart Store/src/main.c",
+  "output": "CMakeFiles/DSPD_2_Assignment.dir/main.c.obj"
+},
+{
+  "directory": "C:/Users/surya/com.surya/data_structures/ClionProjects/DSPD_2_Assignment_2/Walmart Store/src/build",
+  "command": "C:\\mingw32\\bin\\gcc.exe   -g -std=gnu11 -o CMakeFiles\\DSPD_2_Assignment.dir\\wlmrt.c.obj -c \"C:\\Users\\surya\\com.surya\\data_structures\\ClionProjects\\DSPD_2_Assignment_2\\Walmart Store\\src\\wlmrt.c\"",
+  "file": "C:/Users/surya/com.surya/data_structures/ClionProjects/DSPD_2_Assignment_2/Walmart Store/src/wlmrt.c",
+  "output": "CMakeFiles/DSPD_2_Assignment.dir/wlmrt.c.obj"
+},
+{
+  "directory": "C:/Users/surya/com.surya/data_structures/ClionProjects/DSPD_2_Assignment_2/Walmart Store/src/build",
+  "command": "C:\\mingw32\\bin\\gcc.exe   -g -std=gnu11 -o CMakeFiles\\DSPD_2_Assignment.dir\\strbuild.c.obj -c \"C:\\Users\\surya\\com.surya\\data_structures\\ClionProjects\\DSPD_2_Assignment_2\\Walmart Store\\src\\strbuild.c\"",
+  "file": "C:/Users/surya/com.surya/data_structures/ClionProjects/DSPD_2_Assignment_2/Walmart Store/src/strbuild.c",
+  "output": "CMakeFiles/DSPD_2_Assignment.dir/strbuild.c.obj"
+},
+{
+  "directory": "C:/Users/surya/com.surya/data_structures/ClionProjects/DSPD_2_Assignment_2/Walmart Store/src/build",
+  "command": "C:\\mingw32\\bin\\gcc.exe   -g -std=gnu11 -o CMakeFiles\\DSPD_2_Assignment.dir\\cJSON.c.obj -c \"C:\\Users\\surya\\com.surya\\data_structures\\ClionProjects\\DSPD_2_Assignment_2\\Walmart Store\\src\\cJSON.c\"",
+  "file": "C:/Users/surya/com.surya/data_structures/ClionProjects/DSPD_2_Assignment_2/Walmart Store/src/cJSON.c",
+  "output": "CMakeFiles/DSPD_2_Assignment.dir/cJSON.c.obj"
+},
+{
+  "directory": "C:/Users/surya/com.surya/data_structures/ClionProjects/DSPD_2_Assignment_2/Walmart Store/src/build",
+  "command": "C:\\mingw32\\bin\\gcc.exe   -g -std=gnu11 -o CMakeFiles\\DSPD_2_Assignment.dir\\system.c.obj -c \"C:\\Users\\surya\\com.surya\\data_structures\\ClionProjects\\DSPD_2_Assignment_2\\Walmart Store\\src\\system.c\"",
+  "file": "C:/Users/surya/com.surya/data_structures/ClionProjects/DSPD_2_Assignment_2/Walmart Store/src/system.c",
+  "output": "CMakeFiles/DSPD_2_Assignment.dir/system.c.obj"
+},
+{
+  "directory": "C:/Users/surya/com.surya/data_structures/ClionProjects/DSPD_2_Assignment_2/Walmart Store/src/build",
+  "command": "C:\\mingw32\\bin\\gcc.exe   -g -std=gnu11 -o CMakeFiles\\DSPD_2_Assignment.dir\\map.c.obj -c \"C:\\Users\\surya\\com.surya\\data_structures\\ClionProjects\\DSPD_2_Assignment_2\\Walmart Store\\src\\map.c\"",
+  "file": "C:/Users/surya/com.surya/data_structures/ClionProjects/DSPD_2_Assignment_2/Walmart Store/src/map.c",
+  "output": "CMakeFiles/DSPD_2_Assignment.dir/map.c.obj"
+}
+]

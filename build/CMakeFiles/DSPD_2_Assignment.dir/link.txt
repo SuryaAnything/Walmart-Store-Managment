@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\DSPD_2_Assignment.dir/objects.a
+C:\mingw32\bin\ar.exe qc CMakeFiles\DSPD_2_Assignment.dir/objects.a @CMakeFiles\DSPD_2_Assignment.dir\objects1.rsp
+C:\mingw32\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\DSPD_2_Assignment.dir/objects.a -Wl,--no-whole-archive -o DSPD_2_Assignment.exe -Wl,--out-implib,libDSPD_2_Assignment.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\DSPD_2_Assignment.dir\linkLibs.rsp

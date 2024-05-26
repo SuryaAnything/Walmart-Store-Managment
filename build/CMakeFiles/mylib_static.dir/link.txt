@@ -1,0 +1,2 @@
+C:\mingw32\bin\ar.exe qc libmylib.a CMakeFiles/mylib_static.dir/wlmrt.c.obj CMakeFiles/mylib_static.dir/strbuild.c.obj CMakeFiles/mylib_static.dir/cJSON.c.obj CMakeFiles/mylib_static.dir/system.c.obj CMakeFiles/mylib_static.dir/map.c.obj
+C:\mingw32\bin\ranlib.exe libmylib.a
